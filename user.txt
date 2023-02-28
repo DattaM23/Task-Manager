@@ -1,0 +1,9 @@
+admin, adm1n
+mainak, datta
+hello, world
+newuser, password
+attempt2, password2
+hello4, hello5
+ma, ma
+user1, user1
+newuser, hello
